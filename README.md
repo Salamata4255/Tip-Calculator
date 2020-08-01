@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-This is my iOS application.
+This is my first iOS application.
 
 ## License
 
